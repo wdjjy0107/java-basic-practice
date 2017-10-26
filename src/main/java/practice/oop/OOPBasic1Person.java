@@ -20,6 +20,16 @@ public class OOPBasic1Person {
 
         System.out.println("==== Details of Person2 ====");
         System.out.println(person2.firstName + " " + person2.lastName + "(" + person2.age + ")");
+
+        if (person1.age > person2.age) {
+            System.out.println("Person1 is older");
+        }
+        else if (person2.age > person1.age) {
+            System.out.println("Person2 is older");
+        }
+        else {
+            System.out.println("Person1 and Person2 are at the same age");
+        }
     }
 
 }
