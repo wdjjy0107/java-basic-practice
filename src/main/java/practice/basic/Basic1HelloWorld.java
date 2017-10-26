@@ -6,5 +6,4 @@ public class Basic1HelloWorld {
         System.out.println("Hello World!");
     }
 
-
 }
