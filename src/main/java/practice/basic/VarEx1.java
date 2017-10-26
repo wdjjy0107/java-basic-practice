@@ -11,6 +11,6 @@ public class VarEx1 {
         age = age + 1;
 
         System.out.println(year);
-        System.out.println;
+        System.out.println(age);
     }
 }
