@@ -2,7 +2,7 @@ package practice.oop;
 
 import pojo.Person;
 
-public class OopBasic1Person {
+public class OOPBasic1Person {
 
     public static void main(String[] args) {
         Person person1 = new Person();
